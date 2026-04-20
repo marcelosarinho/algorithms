@@ -17,3 +17,5 @@ def search_low(arr):
       lowIndex = i
 
   return lowIndex
+
+print(selection_sort([5, 3, 6, 2, 10]))
